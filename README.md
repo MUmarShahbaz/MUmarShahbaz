@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hello there
+![Hello There](https://github.com/user-attachments/assets/c80c6811-a731-46ab-8dc2-db3e9692db7d)
 
-<!--
-**KingHowler/KingHowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am M.Umar Shahbaz but in here I am  also known as "KingHowler", the random username I thought up when I was 9 years old and decided to go with for the rest of my life, because why not?<br>
+I am just a casual student programmer learning here and there making projects that catch my interest.<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I`m currently looking for people in Lahore, Pakistan to take me on as a paid intern.
+
+### Education
+| Education Level |             Institution                | Duration (Years) |
+|-----------------|----------------------------------------|------------------|
+| CIE O levels    | Crescent Model Higher Secondary School | 2020 - 2023      |
+| CIE A levels    | Lahore Grammer School Johar Town (Boys)| 2023 - 2025      |
+
+### Programming Languages
+I have learned the following languages
+| Language       | Level   |
+|----------------|---------|
+| C++            | Basic   |
+| C#             | Basic   |
+| Python         | Basic   |
+| HTML           | Basic   |
+| CSS            | Basic   |
+| Javascript     | Basic   |
+| Arduino        | Basic   |
+| Processing IDE | Basic   |
+
+> Basically I have the basic knowledge of very basic languages
+
+### Hobbies
+- Programming
+- Sports
+- Gaming
+- Robotics
+- Competitive sleeping (after all projects have been submitted)
+
+### Toolset
+> Here is a list of tools I am aware of and use often <br>
+
+| Tool Name             | Description                                                     |
+|-----------------------|-----------------------------------------------------------------|
+| 123D Design           | 3D Modelling Software (Advance)                                 |
+| 3D Builder            | 3D Modelling Software                                           |
+| Adobe Photoshop       | Edit and create pictures                                        |
+| Arduino IDE           | Microcontroller programming software                            |
+| Atom                  | Code editor                                                     |
+| CPUID CPU-Z           | PC specs viewer                                                 |
+| Digital Logic Sim     | Logic simulator                                                 |
+| Explorer++            | Advanced file explorer                                          |
+| Fing                  | Network management tool                                         |
+| Free Download Manager | Download manager                                                |
+| Fritzing              | Circuit designer                                                |
+| Gitkraken             | GUI for git (graphical version control handler for software)    |
+| Handbrake             | Video converter                                                 |
+| Inno Setup            | Installer.exe maker                                             |
+| Macromedia Flash 8    | Animation Software                                              |
+| Obsidian              | Markdown documentation handling tool                            |
+| Processing            | Visual ARTS tool                                                |
+| Qt                    | GUI Designer                                                    |
+| Tera Term             | Serial communication handler                                    |
+| Unity                 | GUI based software designer (Advance)                           |
+| Visual Studio         | GUI based software designer                                     |
+| Visual Studio Code    | Code editor                                                     |
+| XAMPP                 | Local website hosting application                               |
