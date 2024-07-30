@@ -1,9 +1,8 @@
 ## Hello there
 ![Hello There](https://github.com/user-attachments/assets/c80c6811-a731-46ab-8dc2-db3e9692db7d)
 
-I am M.Umar Shahbaz but in here I am  also known as "KingHowler", the random username I thought up when I was 9 years old and decided to go with for the rest of my life, because why not?<br>
-I am just a casual student programmer learning here and there making projects that catch my interest.<br>
-
+I am M.Umar Shahbaz but in here I am  also known as "KingHowler"<br>
+I am just a young student programmer learning here and there making projects that catch my interest.<br>
 
 I`m currently looking for people in Lahore, Pakistan to take me on as a paid intern.
 
@@ -14,17 +13,17 @@ I`m currently looking for people in Lahore, Pakistan to take me on as a paid int
 | CIE A levels    | Lahore Grammer School Johar Town (Boys)| 2023 - 2025      |
 
 ### Programming Languages
-I have learned the following languages
-| Language       | Level   |
-|----------------|---------|
-| C++            | Basic   |
-| C#             | Basic   |
-| Python         | Basic   |
-| HTML           | Basic   |
-| CSS            | Basic   |
-| Javascript     | Basic   |
-| Arduino        | Basic   |
-| Processing IDE | Basic   |
+I have learned the following languages to a great length
+| Language       |
+|----------------|
+| C++            |
+| C#             |
+| Python         |
+| HTML           |
+| CSS            |
+| Javascript     |
+| Arduino        |
+| Processing IDE |
 
 > Basically I have the basic knowledge of very basic languages
 
