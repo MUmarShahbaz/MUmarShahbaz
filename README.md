@@ -7,8 +7,15 @@ I am M.Umar Shahbaz. I am a young student programmer learning here and there mak
 - [Arduino-Language-Support](https://marketplace.visualstudio.com/items?itemName=MUmarShahbaz.als)
 - [Arduino Toolbox](github.com/KingHowler/Arduino-Interfaces-using-Winforms)
 
+### GitHub statistics
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingHowler&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingHowler&theme=github_dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingHowler&layout=donut-vertical&theme=github_dark&size_weight=0.5&count_weight=0.5">
+</div>
+
 <div align="center">
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="50%" height="50%"/>
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="30%" height="30%"/>
 </div>
 
 ## console.log("Start Aggressive Coding")
@@ -69,8 +76,3 @@ I have learned the following languages to a great length
 | Visual Studio         | GUI based software designer                                     |
 | Visual Studio Code    | Code editor                                                     |
 | XAMPP                 | Local website hosting application                               |
-
-## GitHub statistics
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KingHowler&theme=dark&background=000000)
-<br>
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHowler&layout=compact&theme=vision-friendly-dark)
