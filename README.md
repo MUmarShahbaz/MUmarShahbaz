@@ -1,10 +1,17 @@
-## Hello there
-![Hello There](https://github.com/user-attachments/assets/c80c6811-a731-46ab-8dc2-db3e9692db7d)
+# M. Umar Shahbaz
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/King-Howler?style=for-the-badge&labelColor=%23ff5000&color=%23e3e3e3)
 
-I am M.Umar Shahbaz but in here I am  also known as "KingHowler"<br>
-I am just a young student programmer learning here and there making projects that catch my interest.<br>
+## About Me
+I am M.Umar Shahbaz. I am a young student programmer learning here and there making projects that catch my interest.. My goal is to become a professional developer with a wide variety of skills and proficiency in multiple languages. I am currently learning C++ and Python. On the other hand I also have experience in Robotics and have participated in multiple events revolving around the topic. I have made a certain number of projects already on this github account most promising of which are the following:
+- [Graph-Plotter](github.com/KingHowler/Graph-Plotter)
+- [Arduino-Language-Support](https://marketplace.visualstudio.com/items?itemName=MUmarShahbaz.als)
+- [Arduino Toolbox](github.com/KingHowler/Arduino-Interfaces-using-Winforms)
 
-I`m currently looking for people in Lahore, Pakistan to take me on as a paid intern.
+<div align="center">
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="50%" height="50%"/>
+</div>
+
+## console.log("Start Aggressive Coding")
 
 ### Education
 | Education Level |             Institution                | Duration (Years) |
