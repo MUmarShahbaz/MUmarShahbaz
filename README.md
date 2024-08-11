@@ -9,8 +9,10 @@ I am M.Umar Shahbaz. I am a young student programmer learning here and there mak
 
 ### GitHub statistics
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingHowler&theme=github_dark">
   <img src="https://github-readme-stats.vercel.app/api?username=KingHowler&theme=github_dark&show_icons=true">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingHowler&theme=github_dark">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingHowler&layout=donut-vertical&theme=github_dark&size_weight=0.5&count_weight=0.5">
 </div>
 
