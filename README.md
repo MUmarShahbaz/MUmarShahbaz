@@ -62,3 +62,8 @@ I have learned the following languages to a great length
 | Visual Studio         | GUI based software designer                                     |
 | Visual Studio Code    | Code editor                                                     |
 | XAMPP                 | Local website hosting application                               |
+
+## GitHub statistics
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KingHowler&theme=dark&background=000000)
+<br>
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHowler&layout=compact&theme=vision-friendly-dark)
