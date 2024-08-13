@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -90,3 +83,12 @@ I'm M. Umar Shahbaz from Lahore, Pakistan<br><br>
 </div>
 
 ###
+
+<h1 align="left"> My Finest Repos yet</h1>
+
+###
+
+[![Graph Plotter](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Graph-Plotter)](https://www.github.com/KingHowler/Graph-Plotter)
+[![Arduino Language Support](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Arduino-Language-Support)](https://www.github.com/KingHowler/Arduino-Language-Support)
+[![Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Line-Follower)](https://www.github.com/KingHowlerLine-Follower)
+[![UNO Card Game](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=UNO-Card-Game](https://www.github.com/KingHowler/UNO-Card-Game)
