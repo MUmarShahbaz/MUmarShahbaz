@@ -88,7 +88,7 @@ I'm M. Umar Shahbaz from Lahore, Pakistan<br><br>
 
 ###
 
-[![Graph Plotter](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Graph-Plotter)](https://www.github.com/KingHowler/Graph-Plotter)
-[![Arduino Language Support](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Arduino-Language-Support)](https://www.github.com/KingHowler/Arduino-Language-Support)
-[![Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Line-Follower)](https://www.github.com/KingHowlerLine-Follower)
-[![UNO Card Game](https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=UNO-Card-Game](https://www.github.com/KingHowler/UNO-Card-Game)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Graph-Plotter" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Graph-Plotter)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Arduino-Language-Support" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Arduino-Language-Support)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Line-Follower" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Line-Follower)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=UNO-Card-Game" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/UNO-Card-Game)
