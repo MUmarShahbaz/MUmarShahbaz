@@ -10,7 +10,13 @@
 
 ###
 
-I am learning to create programs which are efficient and follow the standard programming ethics such as minimizing technical debt and providing proper documentation. I am frequent user of GitHub and am currently in charge of creating a website with my team.
+I am a 17 year old college student. My goal is to become a programmar that has a wide variety of skill. I am currently working on the following.
+- Simulations
+- Robotics
+- Back-end Programming
+- Database Management
+- Front-end Programming
+ Note: These last 2 are things which in I am not "an expert" but in the other 3 I can say that I can make projects with a lot of profficiency
 
 ###
 
