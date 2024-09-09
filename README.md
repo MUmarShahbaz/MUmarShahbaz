@@ -16,29 +16,22 @@ I am a 17 year old college student. My goal is to become a programmar that has a
 - Back-end Programming
 - Database Management
 - Front-end Programming
- Note: These last 2 are things which in I am not "an expert" but in the other 3 I can say that I can make projects with a lot of profficiency
+
+Note: These last two are things which in I am not "an expert" but in the other three, I can make projects with a certain amount of profficiency.
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="left">Works in Progress</h1>
 
 ###
 
-I'm M. Umar Shahbaz from Lahore, Pakistan<br><br>
-- 🔭 I'm a student programmer
-- 📚 I'm currently learning C++ and Python along with JavaScript
-- ⚡ In my free time I like to play sports or read crime fiction novels
-
-###
-
-<h3 align="left">What I am working on right now:</h3>
-
-###
-
-- Graph Plotter library for Processing IDE
-- Arduino Language Support for VS Code
-- Portfolio Website for M. Umar Shahbaz
-- Another website with my team
+| Project Title                 | Description                                                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Oscilloscope Online**       | Browser based interface for a **Serial Graph Plotter**. Used as an alternative to expensive Oscilloscopes. |
+| **Attendance system**         | NodeMCU based system using RFID & SQL servers.                                                             |
+| **Environmental Data Logger** | NodeMCU based data logger to record the environmental conditions of Lahore, Pakistan.                      |
+| **HeatGraphs**                | Software to plot graphs of your computers Temperatures. This will help in benchmarking your computer.      |
+| **Robotic Arm Simulation**    | Simulation for a standard 4 axis Robotic Arm which you can control using a serial device.                  |
 
 ###
 
@@ -76,7 +69,7 @@ I'm M. Umar Shahbaz from Lahore, Pakistan<br><br>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">   My GitHub Statistics :</h3>
 
 ###
 
