@@ -35,7 +35,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -69,7 +69,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
 
 ###
 
-<h3 align="left">   My GitHub Statistics :</h3>
+<h1 align="left">   My GitHub Statistics :</h1>
 
 ###
 
@@ -87,44 +87,43 @@ Note: These last two are things which in I am not "an expert" but in the other t
 
 ###
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Graph-Plotter" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Graph-Plotter)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Arduino-Language-Support" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Arduino-Language-Support)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=Line-Follower" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/Line-Follower)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=KingHowler&repo=UNO-Card-Game" height="130" alt="activity-graph graph"/>](https://www.github.com/KingHowler/UNO-Card-Game)
-
 <div align="center" style="display: flex; flex-wrap: wrap; ">
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
         <a href="https://github.com/KingHowler/Oscilloscope-Online" style="color:inherit">
         <img src="images/OO.png" width=300px height=auto style="border-radius: 10px;">
-        <h1>Oscilloscope-Online</h1>
+        <h3>Oscilloscope-Online</h3>
         <p>Online Serial Graph Plotter using p5.js</p>
         </a>
     </div>
+<hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
         <a href="https://github.com/KingHowler/Graph-Plotter" style="color:inherit">
         <img src="images/GP.png" width=300px height=auto style="border-radius: 10px;">
-        <h1>Graph Plotter</h1>
+        <h3>Graph Plotter</h3>
         <p>Library for Processing IDE</p>
         </a>
     </div>
+  <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
         <a href="https://github.com/KingHowler/Arduino-Language-Support" style="color:inherit">
         <img src="images/ALS.jpeg" width=300px height=auto style="border-radius: 10px;">
-        <h1>Arduino Language Support</h1>
+        <h3>Arduino Language Support</h3>
         <p>Extension for VS Code</p>
         </a>
     </div>
+  <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
         <a href="https://github.com/KingHowler/Arduino-Toolbox" style="color:inherit">
         <img src="images/ATB.png" width=300px height=auto style="border-radius: 10px;">
-        <h1>Arduino Toolbox</h1>
+        <h3>Arduino Toolbox</h3>
         <p>Utility tool for testing and debugging a Robotic Arm</p>
         </a>
     </div>
+  <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
         <a href="https://github.com/KingHowler/NodeMCU-Attendance-System" style="color:inherit">
         <img src="images/ATS.jpeg" width=300px height=auto style="border-radius: 10px;">
-        <h1>Attendance System</h1>
+        <h3>Attendance System</h3>
         <p>NodeMCU based attendance system using RFID</p>
         </a>
     </div>
