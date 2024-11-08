@@ -49,6 +49,12 @@ body {
     margin: 10px 0;
 }
 
+.card ul {
+    color: #828282;
+    text-align: left;
+    margin: 10px 0;
+}
+
 .github-icon {
     width: 24px;
     height: 24px;
