@@ -55,6 +55,11 @@ body {
     margin: 10px 0;
 }
 
+.subCategory {
+    display: block;
+    text-align: center;
+}
+
 .github-icon {
     width: 24px;
     height: 24px;
