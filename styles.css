@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #fff00061;
     margin: 0;
     padding: 0;
 }
@@ -58,6 +58,11 @@ body {
 .subCategory {
     display: block;
     text-align: center;
+    border: 1px solid black;
+    margin : 5%;
+    padding: 5%;
+    background-color: #fff;
+    border-radius: 10px;
 }
 
 .github-icon {
