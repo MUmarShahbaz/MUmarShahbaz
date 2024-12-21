@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KingHowler/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MUmarShahbaz/count.svg?"  />
 </div>
 
 ###
@@ -74,11 +74,11 @@ Note: These last two are things which in I am not "an expert" but in the other t
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingHowler&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingHowler&size_weight=0.4&count_weight=0.6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&exclude_repo=kinghowler.github.io&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KingHowler&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KingHowler&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingHowler&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUmarShahbaz&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUmarShahbaz&size_weight=0.4&count_weight=0.6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&exclude_repo=MUmarShahbaz.github.io&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MUmarShahbaz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MUmarShahbaz&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUmarShahbaz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
 
 <div align="center" style="display: flex; flex-wrap: wrap; ">
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
-        <a href="https://github.com/KingHowler/Oscilloscope-Online" style="color:inherit">
+        <a href="https://github.com/MUmarShahbaz/Oscilloscope-Online" style="color:inherit">
         <img src="images/OO.png" width=300px height=auto style="border-radius: 10px;">
         <h3>Oscilloscope-Online</h3>
         <p>Online Serial Graph Plotter using p5.js</p>
@@ -97,7 +97,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
     </div>
 <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
-        <a href="https://github.com/KingHowler/Graph-Plotter" style="color:inherit">
+        <a href="https://github.com/MUmarShahbaz/Graph-Plotter" style="color:inherit">
         <img src="images/GP.png" width=300px height=auto style="border-radius: 10px;">
         <h3>Graph Plotter</h3>
         <p>Library for Processing IDE</p>
@@ -105,7 +105,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
     </div>
   <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
-        <a href="https://github.com/KingHowler/Arduino-Language-Support" style="color:inherit">
+        <a href="https://github.com/MUmarShahbaz/Arduino-Language-Support" style="color:inherit">
         <img src="images/ALS.jpeg" width=300px height=auto style="border-radius: 10px;">
         <h3>Arduino Language Support</h3>
         <p>Extension for VS Code</p>
@@ -113,7 +113,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
     </div>
   <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
-        <a href="https://github.com/KingHowler/Arduino-Toolbox" style="color:inherit">
+        <a href="https://github.com/MUmarShahbaz/Arduino-Toolbox" style="color:inherit">
         <img src="images/ATB.png" width=300px height=auto style="border-radius: 10px;">
         <h3>Arduino Toolbox</h3>
         <p>Utility tool for testing and debugging a Robotic Arm</p>
@@ -121,7 +121,7 @@ Note: These last two are things which in I am not "an expert" but in the other t
     </div>
   <hr>
     <div style="width: 400px; border:5px solid #ffffff; padding: 50px 0px; margin: 20px;border-radius: 10px;">
-        <a href="https://github.com/KingHowler/NodeMCU-Attendance-System" style="color:inherit">
+        <a href="https://github.com/MUmarShahbaz/NodeMCU-Attendance-System" style="color:inherit">
         <img src="images/ATS.jpeg" width=300px height=auto style="border-radius: 10px;">
         <h3>Attendance System</h3>
         <p>NodeMCU based attendance system using RFID</p>
